@@ -71,7 +71,20 @@ The total amount of the loop needs to be consistent with the input Content_id
 
 For循环总量需要与输入的Content_id一致
 
+video plugin：
+
 ![image](https://github.com/user-attachments/assets/5cec0297-171e-4012-8f31-e25b6ababcab)
+
+Image plugin：
+
+![image](https://github.com/user-attachments/assets/6fe1a5bb-4826-4011-ac82-cd74dba00c3b)
+
+
+Prompt（Txt） plugin：
+
+![image](https://github.com/user-attachments/assets/be6a4794-1879-479f-a2cf-8e1ae85f1d36)
+
+
 
 
 # Q&A 常见问题

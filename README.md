@@ -79,11 +79,15 @@ Please upload your content to the Content Cloud first,
    
 2. To use the Video and Image plugins, you need to upload Video and Image, and set the main image and main video. The plugin call will only call the main image and main video.
 
+3. The content_id in the plugin, which is the content ID of the content cloud
+
 请先在内容云上传内容：
 
 1. 用Prompt（TXT）插件，需要更新描述
    
 2. 用Video和Image插件，需要上传Video和Image，并设置主图和主视频。插件调用只会调用主图和主视频。
+
+3. 插件中的content_id，即内容云的内容ID
    
 ![image](https://github.com/user-attachments/assets/88c1c73b-2148-4f23-bda6-f1aad83df1e3)
 

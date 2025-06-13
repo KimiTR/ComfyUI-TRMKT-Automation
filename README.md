@@ -67,6 +67,25 @@ video插件是调用TRMKT数据云（内容云）的对应内容ID的对应主�
 
 # Use parameter settings（使用参数设置）:
 
+## Platform Content Cloud Settings（平台内容云设置）:
+
+Please upload your content to the Content Cloud first,
+
+1. To use the Prompt (TXT) plugin, it is necessary to update the description
+   
+2. To use the Video and Image plugins, you need to upload Video and Image, and set the main image and main video. The plugin call will only call the main image and main video.
+
+请先在内容云上传内容：
+
+1. 用Prompt（TXT）插件，需要更新描述
+   
+2. 用Video和Image插件，需要上传Video和Image，并设置主图和主视频。插件调用只会调用主图和主视频。
+   
+![image](https://github.com/user-attachments/assets/88c1c73b-2148-4f23-bda6-f1aad83df1e3)
+
+
+## Plugin parameter settings（插件参数设置）:
+
 The total amount of the loop needs to be consistent with the input Content_id
 
 For循环总量需要与输入的Content_id一致

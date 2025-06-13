@@ -1,4 +1,4 @@
-# ComfyUI-TRMKT-Automation
+# ComfyUI-TRMKT-Nodes
 
 The ComfyUI dedicated plugin of TRMKT-AI data cloud platform is used to call the content cloud. Combined with the For Loop plugin, it can automatically generate loops for batch content. The plugin is implemented in Python and communicates with the server through APIs. It supports calling various AI models such as video, image, and audio uploads (Maskkct, MimicMotion, FluxGGUF, etc.)
 

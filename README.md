@@ -10,24 +10,20 @@ You only need to download and extract the plugin to the "\ ComfyUI \ custom_node
 
 # Instructions 使用说明
 
-Field filling instructions:
+## Field filling instructions（字段填写说明）:
 API Key: You can register trmkt.top and apply under the "Open API" menu
-字段填写说明：
 API-Key：您可以通过注册trmkt.top，并在菜单“开放API”下进行申请即可
 
-Prompt（Txt） plugin usage instructions:
+## Prompt（Txt） plugin usage instructions（Prompt（Txt）插件使用说明）:
 The Txt plugin needs to select the corresponding field of the content ID of the TRMKT data cloud (content cloud), which can be called as the input source for the next node
-Prompt（Txt）插件使用说明：
 Txt插件需要选择TRMKT数据云（内容云）的对应内容ID的对应字段，即可作为下一个节点的输入源进行调用
 
-Instructions for using the Image plugin:
+## Instructions for using the Image plugin（Image插件使用说明）:
 The Image plugin calls the corresponding main image of the TRMKT data cloud (content cloud) corresponding to the content ID, which can be used as an input source for calling. When calling, specify the local location to automatically download from the cloud to the local, and then use it as the data input source for the next node for processing
-Image插件使用说明：
 Image插件是调用TRMKT数据云（内容云）的对应内容ID的对应主图，即可作为输入源进行调用。调用时，指定本地的位置，即可自动从云端下载到本地，然后作为下一个节点的数据输入源进行处理
 
-Instructions for using video plugin:
+## Instructions for using video plugin（video插件使用说明）:
 The video plugin calls the corresponding main video of the TRMKT data cloud (content cloud) with the corresponding content ID, which can be used as the input source for calling. When calling, specify the local location to automatically download from the cloud to the local, and then use it as the data input source for the next node for processing
-video插件使用说明：
 video插件是调用TRMKT数据云（内容云）的对应内容ID的对应主视频，即可作为输入源进行调用。调用时，指定本地的位置，即可自动从云端下载到本地，然后作为下一个节点的数据输入源进行处理
 
 # Notes 备注

@@ -14,7 +14,7 @@ You only need to download and extract the plugin to the "\ ComfyUI \ custom_node
 
 Ensure that ComfyUI is installed. Please place this plugin in the custom_nodes directory of ComfyUI: ComfyUI/custom_nodes/ComfyUI_Trmket_nodes/
 
-Installation dependency: pip install - r requirements. txt
+Installation dependency: pip install -r requirements. txt
 
 Configure the API address in Config. py, which defaults to the local test address, to ensure that the API service is started.
 

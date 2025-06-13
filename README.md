@@ -14,7 +14,7 @@ You only need to download and extract the plugin to the "\ ComfyUI \ custom_node
 
 Ensure that ComfyUI is installed. Please place this plugin in the custom_nodes directory of ComfyUI: ComfyUI/custom_nodes/ComfyUI_Trmket_nodes/
 
-Installation dependency: pip install -r requirements.txt
+Installation dependency: "pip install -r requirements.txt"
 
 Configure the API address in Config. py, which defaults to the local test address, to ensure that the API service is started.
 
@@ -38,7 +38,7 @@ Step 1: https://www.trmkt.top/cn/ Log in or register as a user, apply for API Ke
 
 Step 2: Open Content Cloud, create a new content library, configure the content, and then copy the content ID to be executed
 
-Step 3: Install ComfyUI_Trmkt-N odes plugin
+Step 3: Install the ComfyUI_Trmkt_nodes plugin. Remember to configure the environment through the command line "pip install -r requirements.txt" in the ComfyUI_Trmkt_nodes directory, and restart ComfyUI after installation is complete
 
 Step 4: Introduce plugins (prompt words are description fields for content data in the content cloud, image: main image set in the content cloud, video: main video set in the content cloud)
 
@@ -46,7 +46,7 @@ Step 4: Introduce plugins (prompt words are description fields for content data 
 
 第二步：打开内容云，新建内容库，配置内容，然后复制要执行的内容id
 
-第三步：安装ComfyUI_Trmkt_Nodes插件
+第三步：安装ComfyUI_Trmkt_Nodes插件，记得在ComfyUI_Trmkt_Nodes目录下，通过命令行pip install -r requirements.txt配置环境，安装完成后重启ComfyUI
 
 第四步：引入插件（提示词是内容云中的内容数据的描述字段，图片：内容云设置的主图，视频为:内容云设置的主视频）
 

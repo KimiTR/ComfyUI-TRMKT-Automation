@@ -40,3 +40,5 @@ If you have any usage issues, please contact us:
 WeChat（微信号）：trmktai
 
 Email：36111762@qq.com
+
+[![Stargazers repo roster for @TRMKT-AI/ComfyUI-TRMKT-Automation](https://reporoster.com/stars/TRMKT-AI/ComfyUI-TRMKT-Automation)](https://github.com/TRMKT-AI/ComfyUI-TRMKT-Automation/stargazers)

@@ -67,6 +67,10 @@ video插件是调用TRMKT数据云（内容云）的对应内容ID的对应主�
 
 # Use parameter settings（使用参数设置）:
 
+Please download the example workflow from the plugin code. Please note that when using it, it is necessary to use it in conjunction with the ComfyUI Easy Use plugin's For loop
+
+示例工作流，请在插件代码中下载。注意使用时需要配合ComfyUI-Easy-Use插件的For循环使用
+
 ## Platform Content Cloud Settings（平台内容云设置）:
 
 Please upload your content to the Content Cloud first,

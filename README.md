@@ -65,6 +65,15 @@ The video plugin calls the corresponding main video of the TRMKT data cloud (con
 
 video插件是调用TRMKT数据云（内容云）的对应内容ID的对应主视频，即可作为输入源进行调用。调用时，指定本地的位置，即可自动从云端下载到本地，然后作为下一个节点的数据输入源进行处理
 
+# Use parameter settings（使用参数设置）:
+
+The total amount of the loop needs to be consistent with the input Content_id
+
+For循环总量需要与输入的Content_id一致
+
+![image](https://github.com/user-attachments/assets/5cec0297-171e-4012-8f31-e25b6ababcab)
+
+
 # Q&A 常见问题
 
 Launch ComfyUI and find all nodes under the trmktNodes category in the node list. Before uploading files, ensure that the API service is started. All nodes need to provide api_key in order to function properly. If the node is not displayed, check if the directory structure is correct

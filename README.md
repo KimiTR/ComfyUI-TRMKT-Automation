@@ -34,7 +34,7 @@ API-Key：您可以通过注册trmkt.top，并在菜单“开放API”下进行�
 
 ## How to use it（安装后如何使用）:
 
-Step 1: https://www.trmkt.top/cn/ Login or register as a user
+Step 1: https://www.trmkt.top/cn/ Log in or register as a user, apply for API Key under "Open API", and fill in the usage information
 
 Step 2: Open Content Cloud, create a new content library, configure the content, and then copy the content ID to be executed
 
@@ -42,7 +42,7 @@ Step 3: Install ComfyUI_Trmkt-N odes plugin
 
 Step 4: Introduce plugins (prompt words are description fields for content data in the content cloud, image: main image set in the content cloud, video: main video set in the content cloud)
 
-第一步：https://www.trmkt.top/cn/ 登录或注册用户
+第一步：https://www.trmkt.top/cn/ 登录或注册用户，并在“开放API”下进行申请API-Key，并填入使用
 
 第二步：打开内容云，新建内容库，配置内容，然后复制要执行的内容id
 
